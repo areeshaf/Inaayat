@@ -202,6 +202,10 @@ div.bg2
       <li class="nav-item">
         <a class="nav-link"  href="http://localhost/inaayat/reviews.php">Reviews</a>
       </li>
+      
+      <li class="nav-item">
+        <a class="nav-link"  href="http://localhost/inaayat/order.php">Order</a>
+      </li>
 
         <li class="nav-item">
         <a class="nav-link " href="http://localhost/inaayat/map.php">Map</a>
